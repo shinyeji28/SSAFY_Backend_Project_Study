@@ -1,1 +1,1 @@
-# SSAFY_Backend_Project_Study
+# SSAFY 2학기 프로제트를 진행하면서 익힌 백엔드 기술 테스트 코드를 작성한 것을 모아 둔 Repository입니다.
