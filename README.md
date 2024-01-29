@@ -4,3 +4,4 @@
 |------|---|---|-------|
 |240114|4일|MongoDB 테스트 코드 작성|프로젝트 내 MongoDB의 필요성을 찾고, MySQL과 함께 MongoDB를 적용하는 방법을 테스트 코드로 작성|
 |240118|5일|Spring Security 테스트 코드 작성|회원가입, 로그인을 위해 Spring Security를 적용하고 JWT를 발급하는 방법을 테스트 코드로 작성|
+|240125|1일|Javascript front code, 한글 자모음 분리 테스트 코드 작성|
